@@ -2,7 +2,7 @@
 
 The client guide for the Gared Graphics WordPress site: how to edit pages and their sections, portfolio projects, blog posts, forms, images and site settings.
 
-Published with GitHub Pages: https://arish-ct.github.io/gared-graphics-doc/
+Published with GitHub Pages: https://coalitiontech.github.io/gared-graphics-doc/
 
 ## Working on it
 
