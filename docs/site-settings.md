@@ -29,9 +29,6 @@ Go to **Appearance → Customize** in the left menu (or click **Customize** in t
 4. **Header button label**: the text on the burgundy button at the top right (currently *Request a Quote*).
 5. **Header button URL**: where the button goes. `/contact-us/#quote` opens the quote form on the Contact page; leave it empty to link to the Contact Us page.
 
-!!! note
-    The logo is currently a PNG file. A vector version (SVG) from your designer would be even sharper; ask us if you'd like to switch.
-
 ## Contact details
 
 These are used everywhere they appear on the site: the header, the footer, the Contact page and the contact sections on other pages. Change them here once and they update everywhere.
