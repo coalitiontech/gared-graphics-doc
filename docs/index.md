@@ -6,7 +6,7 @@ Your site runs on **WordPress**, with a custom theme built by Coalition Technolo
 
 ## Logging in
 
-1. Go to your website address followed by **/wp-admin**, for example `garedgraphics.com/wp-admin`.
+1. Go to **/wp-admin/** on your website (add it to the end of your website address).
 2. Enter the username and password you were given, then click **Log In**.
 3. You'll land on the **Dashboard**. The menu on the left takes you everywhere you need to go.
 
