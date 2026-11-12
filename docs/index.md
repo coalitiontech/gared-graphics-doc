@@ -33,6 +33,7 @@ Some areas control how the site is built rather than what it says. Changing them
 - **Appearance → Themes**: switching theme would replace your site's design.
 - **Appearance → Customize → Additional CSS**: code that changes the site's styling.
 - **Plugins**: they power the forms, the editing fields and backups.
+- **Pages → Sample Page**: a reference page that shows how every kind of content looks on your site (headings, text, links, lists, buttons, quotes, tables and more), including how buttons and links change when you point at them. It's hidden from search engines, the menus and the site search, so visitors won't come across it. Open it whenever you want to see how something will look before adding it to a page.
 
 ## In this documentation
 
